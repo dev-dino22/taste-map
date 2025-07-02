@@ -1,6 +1,6 @@
 # 맛지도 기획
 
-> url: https://think-facet-79773959.figma.site
+> url: [https://think-facet-79773959.figma.site](https://think-facet-79773959.figma.site)
 
 ## 페르소나
 
